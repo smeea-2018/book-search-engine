@@ -1,5 +1,7 @@
 # book-search-engine
 
+## Link to deploy website [here](https://intense-beach-96854.herokuapp.com/)
+
 ## Task
 
 Take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server.
@@ -44,6 +46,26 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 ```
 
+## Technologies
+
+React, MongoDB, Node.JS
+
 ## Mock-Up
 
-https://intense-beach-96854.herokuapp.com/
+![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./Assets/21-mern-homework-demo-01.gif)
+
+## How to run and install the project
+
+To run the project visual studio code, a web browser and git hub account is required. The code can be cloned by using git bash or github desktop.
+To run the project:
+
+In root folder:
+npm i
+
+To start server go to server folder and execute command:
+
+npm run start:server
+
+To start client go to client folder and execute command:
+
+npm run:client
