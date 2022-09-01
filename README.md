@@ -52,7 +52,7 @@ React, MongoDB, Node.JS
 
 ## Mock-Up
 
-![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](booksearchengine.JPG)
+![Book search engine page with navbar and searchbox.](booksearchengine.JPG)
 
 ## How to run and install the project
 
